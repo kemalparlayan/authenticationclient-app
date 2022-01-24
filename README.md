@@ -1,10 +1,10 @@
-# Getting Started with authenticationclient-app
+# authenticationclient-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Usign material.ui design architecture for front-end design
 
--soon- Integration with authentication-app api to get JWT and login. 
+-soon- Integration with authenticationApp api to get JWT and login backend side.
 
 ## Available Scripts
 
